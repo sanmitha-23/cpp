@@ -1,4 +1,5 @@
 #include<iostream>
+
 using namespace std;
 
 bool check_prime(int n);
